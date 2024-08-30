@@ -1,6 +1,6 @@
 # Heart Attack Prediction Using Machine Learning
 
-![Heart Attack Prediction]([path-to-image.png](https://github.com/user-attachments/assets/cc2f7d2a-71ed-4419-b283-89dd698b1b5e)
+![Heart Attack Prediction](https://github.com/user-attachments/assets/cc2f7d2a-71ed-4419-b283-89dd698b1b5e)
 
 
 ## Overview
