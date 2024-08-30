@@ -22,12 +22,6 @@ This repository contains a machine learning project aimed at predicting the like
 - [License](#license)
 - [Contact](#contact)
 
-## Dataset
-The dataset used in this project is publicly available and contains patient information with various medical indicators. The dataset can be accessed via [Kaggle](https://www.kaggle.com/datasets) or other public repositories.
-
-### Data Source
-- **Size**: 303 rows, 14 columns
-- **Attributes**: Age, Gender, Chest Pain Type, Cholesterol, Resting Blood Pressure, Max Heart Rate, etc.
 
 ## Features
 The dataset includes the following features:
