@@ -18,9 +18,6 @@ This repository contains a machine learning project aimed at predicting the like
 - [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 
 ## Features
