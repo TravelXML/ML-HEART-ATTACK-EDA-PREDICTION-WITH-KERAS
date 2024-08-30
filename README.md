@@ -121,8 +121,8 @@ The final model demonstrates strong predictive capability with the following key
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/heart-attack-prediction.git
-cd heart-attack-prediction
+git clone https://github.com/TravelXML/ML-HEART-ATTACK-EDA-PREDICTION-WITH-KERAS.git
+cd ML-HEART-ATTACK-EDA-PREDICTION-WITH-KERAS
 pip install -r requirements.txt
 ```
 
