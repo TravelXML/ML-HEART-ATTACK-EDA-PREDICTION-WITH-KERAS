@@ -26,7 +26,6 @@ This repository contains a machine learning project aimed at predicting the like
 The dataset used in this project is publicly available and contains patient information with various medical indicators. The dataset can be accessed via [Kaggle](https://www.kaggle.com/datasets) or other public repositories.
 
 ### Data Source
-- **Source**: [Kaggle - Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/nareshbhat/heart-attack-analysis-prediction-dataset)
 - **Size**: 303 rows, 14 columns
 - **Attributes**: Age, Gender, Chest Pain Type, Cholesterol, Resting Blood Pressure, Max Heart Rate, etc.
 
